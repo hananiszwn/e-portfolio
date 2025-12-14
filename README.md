@@ -2,7 +2,7 @@
 # HANANI SAZWANI
 
 ## 🔗ABOUT ME 🐧
-##### Hi, my name is Nur Hanani Sazwani Binti Muhammad Helmi Wan
+##### Hi, my name is *Nur Hanani Sazwani Binti Muhammad Helmi Wan*
 ##### I am currently a student taking Banchelor in Computer Science (Data Engineering) at University Technology Malaysia (UTM)
 
 ## 🔗OVERVIEW 📸
@@ -12,5 +12,7 @@
 ##### This portfolio shows my effort and commitment to continuous improvement.
 
 ## 🔗PROJECT AND ASSIGNMENT 🖱️📚
-#### TECHNOLOGY AND INFORMATION SYSTEM
-##### 
+#### -TECHNOLOGY AND INFORMATION SYSTEM
+##### ASSINGMENT 1 : VIDEO BLOG (VLOG) to UTMDigital Open Day
+###### Link : [title](
+
